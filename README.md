@@ -1,0 +1,1 @@
+# konexia-link-plataforma.vercel.app
